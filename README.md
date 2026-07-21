@@ -7,7 +7,7 @@ A Streamlit-based quantitative credit risk application that estimates mortgage d
 ## 🚀 Live Demo
 
 ```
-https://your-app-name.streamlit.app
+https://markov-chain-risk-engine.streamlit.app/
 ```
 
 ---
